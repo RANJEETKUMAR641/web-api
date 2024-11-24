@@ -1,0 +1,10 @@
+{
+    "launcher": "iframe",
+    "name": "wpmtest",
+    "version": "0.0.1",
+    "title": "W.P.M. Test",
+    "description": "A game that gives you one minute to type as many words from the list as you can!",
+    "author": "Allen Clark, Malcom Donahoe, Nicole Dubin, & Kevin Permana",
+    "defaultConfig": {},
+    "defaultUserState": {}
+  }
